@@ -17,8 +17,10 @@ Will try to use the 2 following databases instead of SQLite3 :
 
 ### VannaCustomLLM
 
-Will try to use Ollama (locally running LLM) instead of GPT
+Instead of GPT-3.5 which is provided we will use : 
+  1. Ollama (Model is too quantized to give proper queries)
+  2. Krutrim API (Cannot make calls form this server issue in vanna - so doesn't work)
 
 ### VannaCustomVectorDB
 
-Will try to use ChromaDB 
+Will try to use ChromaDB - If we use a different vector db we cannot use the default LLM and the custom LLMs are not working for me :/
