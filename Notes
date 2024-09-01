@@ -38,6 +38,8 @@ Making own SQL Agent
             1 for ddls, 1 for sql and 1 for documentation 
 
             Top K what is the K for each vector db
+
+            Semantic search will probably also be needed
             
         LLM : 
             probably use krutrim for this poc
