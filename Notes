@@ -1,8 +1,12 @@
+DO NOT USE HPE DBs FOR TESTING
+
 Questions 
 
     Alternatives to vanna? 
 
 Vanna 
+
+    DO NOT USE HPE DBs FOR TESTING
 
     Works well, when it works as expected
 
@@ -24,6 +28,8 @@ Text To SQL
 
 
 Making own SQL Agent 
+
+    DO NOT USE HPE DBs FOR TESTING
 
     Backend : 
 
