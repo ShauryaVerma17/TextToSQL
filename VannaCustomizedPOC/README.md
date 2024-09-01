@@ -12,8 +12,8 @@ The defaults for all values are :
 ### VannaCustomDB 
 
 Will try to use the 2 following databases instead of SQLite3 : 
-  1. Oracle's SQL Developer
-  2. Microsoft SQL Server
+  1. Oracle's SQL Developer : https://colab.research.google.com/github/vanna-ai/notebooks/blob/main/oracle-openai-vanna-vannadb.ipynb
+  2. Microsoft SQL Server : https://colab.research.google.com/github/vanna-ai/notebooks/blob/main/mssql-openai-vanna-vannadb.ipynb
 
 ### VannaCustomLLM
 
