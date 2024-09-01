@@ -21,6 +21,10 @@ Instead of GPT-3.5 which is provided we will use :
   1. Ollama (Model is too quantized to give proper queries)
   2. Krutrim API (Cannot make calls form this server issue in vanna - so doesn't work)
 
+There are built in options for using openAI as well as Azure OpenAI 
+  1. Open AI : https://colab.research.google.com/github/vanna-ai/notebooks/blob/main/sqlite-openai-standard-vannadb.ipynb
+  2. Azure OpenAI : https://colab.research.google.com/github/vanna-ai/notebooks/blob/main/sqlite-openai-azure-vannadb.ipynb
+
 ### VannaCustomVectorDB
 
 Will try to use ChromaDB - If we use a different vector db we cannot use the default LLM and the custom LLMs are not working for me :/
