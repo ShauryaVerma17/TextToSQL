@@ -10,6 +10,8 @@ Vanna
 
     Doesn't work with Krutrim API and Ollama's local LLM running on my laptop is too weak/stupid for proper query generation, also have extraction issues in ollama's result for simpler queries 
 
+    Community is pretty active : have seen issues being closed in the past week
+
 Text To SQL 
 
     If the naming convention used in the user's DB is not proper then retrieval takes a hit and therefore incorrect queries will be generated 
@@ -66,6 +68,14 @@ Making own SQL Agent
         Option to just generate query
 
         Option to generate and execute query
+
+        Thumbs up thumbs down option 
+
+        Generate plot option? 
+
+        Explain the query option? 
+
+        Summarize output of query option? 
 
 
 
