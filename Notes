@@ -16,6 +16,8 @@ Vanna
 
     Community is pretty active : have seen issues being closed in the past week
 
+    It will only be offline when we use a non default vectorDB and non default LLM or is it that way? Boundry is a bit blurry
+
 Text To SQL 
 
     If the naming convention used in the user's DB is not proper then retrieval takes a hit and therefore incorrect queries will be generated 
