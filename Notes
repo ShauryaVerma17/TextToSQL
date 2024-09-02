@@ -6,6 +6,8 @@ Questions
 
 Vanna 
 
+    CANNOT CALL VANNA API FROM WORK LAPTOP, it gives SSL error 
+    
     DO NOT USE HPE DBs FOR TESTING
 
     Works well, when it works as expected
